@@ -1,0 +1,5 @@
+The Movie Review Data is a collection of movie reviews retrieved from the imdb.com website in the early 2000s by Bo Pang and Lillian Lee. The reviews were collected and made available as part of their research on natural language processing.
+
+The reviews were originally released in 2002, but an updated and cleaned up version was released in 2004, referred to as “v2.0“.
+
+The dataset is comprised of 1,000 positive and 1,000 negative movie reviews drawn from an archive of the rec.arts.movies.reviews newsgroup hosted at IMDB. The authors refer to this dataset as the “polarity dataset“
